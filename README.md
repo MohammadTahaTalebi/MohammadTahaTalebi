@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  Full-stack Developer with <strong>4.5 years</strong> of experience building scalable, high-performance web applications using
+  Full-stack Developer with <strong>+4.5 years</strong> of experience building scalable, high-performance web applications using
   <strong>React.js, Next.js, Node.js, and TypeScript</strong>.
 </p>
 
@@ -26,14 +26,14 @@
 
 ---
 
-## 🧭 About
-- Focused on **clean architecture**, **DX**, and **observability**.  
-- Comfortable with **system design** topics: caching, CDN strategies, async processing, and horizontal scaling.  
-- Advocate for **type-safe** stacks with TypeScript end-to-end.
+## About Me
+- Full-stack developer with +4.5 years of experience in scalable web applications using **TypeScript**, **React**, and **Node.js**.  
+- Passionate about **clean architecture**, **developer experience (DX)**, and **observability**.  
+- Skilled in **system design**: caching, async processing, and horizontal scaling.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,prisma,postgres,mysql,redis,graphql,tailwind,threejs,vitest,jest,docker,nginx,git,github,vercel&perline=20"
@@ -44,46 +44,35 @@
 
 ---
 
-## 🧩 What I Do
-- Frontend architecture with **Next.js**, **React Query**, **Redux**, and **Tailwind CSS** 💼  
-- Backend services with **Node.js/Express/Fastify**, **REST/GraphQL**, and **Prisma** 🧱  
-- Authentication & security using **Auth.js**, **Clerk**, and robust session strategies 🔐  
-- Data modeling & performance on **PostgreSQL** / **MySQL** + indexes & query-tuning 📊  
-- Real-time features with **Socket.io** / **WebRTC** for live collaboration and streaming 📡  
-- DevOps practices: **GitHub Actions (CI/CD)**, containerization with **Docker**, deploys on **Vercel** 🧰
+## What I Do
+- <img src="https://cdn.simpleicons.org/nextdotjs" width="16" alt="Next.js icon" /> Frontend architecture with **Next.js**, **React Query**, **Redux**, and **Tailwind CSS**  
+- <img src="https://cdn.simpleicons.org/nodedotjs" width="16" alt="Node.js icon" /> Backend services with **Node.js/Express/Fastify**, **REST/GraphQL**, and **Prisma**  
+- <img src="https://cdn.simpleicons.org/openid" width="16" alt="Auth icon" /> Authentication & security using **Auth.js**, **Clerk**, and robust session strategies  
+- <img src="https://cdn.simpleicons.org/postgresql" width="16" alt="PostgreSQL icon" /> Data modeling & performance on **PostgreSQL** / **MySQL** + indexes & query-tuning  
+- <img src="https://cdn.simpleicons.org/socketdotio" width="16" alt="Socket.io icon" /> Real-time features with **Socket.io** / **WebRTC** for live collaboration and streaming  
+- <img src="https://cdn.simpleicons.org/docker" width="16" alt="Docker icon" /> DevOps practices: **GitHub Actions (CI/CD)**, containerization with **Docker**, deploys on **Vercel**
 
 ---
 
-## 📦 Selected Capabilities
-- **Caching (Redis):** low-latency reads for hot data; counters, sessions, and rate limiting.  
-- **CDN:** static/media delivery via edge networks; versioned assets; immutable caching headers.  
-- **Load Balancing:** NGINX/Cloud LB; sticky sessions when required; health checks & blue-green deploys.  
-- **Async Processing:** queues (e.g., RabbitMQ/SQS) for thumbnails, webhooks, and report generation.  
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadTahaTalebi&theme=tokyonight&hide_border=true" height="160" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadTahaTalebi&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTahaTalebi&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top langs"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MohammadTahaTalebi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTahaTalebi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=360"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 🗂 Featured Projects
-- **Project A** — Real-time collaboration dashboard (Next.js, Socket.io, PostgreSQL).  
-- **Project B** — Geo-mapping platform with Leaflet.js and server-side clustering.  
-- **Project C** — Media pipeline with CDN, async thumbnailing, and signed URLs.
-
-> Replace with links and short descriptions to your repositories.
-
----
-
-## 📬 Contact
-- Portfolio / Work samples: **(add your website if available)**  
+## Contact
+- Portfolio: **[tahatalebi.vercel.app](https://tahatalebi.vercel.app)**  
 - Email: [MohammadTahaTalebi1234@gmail.com](mailto:MohammadTahaTalebi1234@gmail.com)  
 - LinkedIn: [tahatalebi](https://linkedin.com/in/tahatalebi)  
 - GitHub: [MohammadTahaTalebi](https://github.com/MohammadTahaTalebi)
