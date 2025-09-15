@@ -35,7 +35,11 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,prisma,postgres,mysql,redis,graphql,tailwind,threejs,vitest,jest,docker,nginx,git,github,vercel&perline=10" alt="Tech Stack"/>
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,prisma,postgres,mysql,redis,graphql,tailwind,threejs,vitest,jest,docker,nginx,git,github,vercel&perline=20"
+    alt="Tech Stack"
+    width="100%"
+  />
 </p>
 
 ---
