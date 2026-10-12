@@ -27,7 +27,7 @@
 ---
 
 ## About Me
-- Full-stack developer with +4.5 years of experience in scalable web applications using **TypeScript**, **React**, and **Node.js**.  
+- Full-stack developer with +5 years of experience in scalable web applications using **TypeScript**, **React**, and **Node.js**.  
 - Passionate about **clean architecture**, **developer experience (DX)**, and **observability**.  
 - Skilled in **system design**: caching, async processing, and horizontal scaling.
 
@@ -74,7 +74,7 @@
 ## Contact
 - Portfolio: **[tahatalebi.vercel.app](https://tahatalebi.vercel.app)**  
 - Email: [MohammadTahaTalebi1234@gmail.com](mailto:MohammadTahaTalebi1234@gmail.com)  
-- LinkedIn: [tahatalebi](https://linkedin.com/in/tahatalebi)  
+- LinkedIn: [TahaTalebi](https://www.linkedin.com/in/tahatalebi-dev/)
 - GitHub: [MohammadTahaTalebi](https://github.com/MohammadTahaTalebi)
 
 ---
