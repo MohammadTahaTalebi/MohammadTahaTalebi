@@ -16,7 +16,7 @@
   <a href="https://github.com/MohammadTahaTalebi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/tahatalebi">
+  <a href="https://linkedin.com/in/tahatalebi-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:MohammadTahaTalebi1234@gmail.com">
